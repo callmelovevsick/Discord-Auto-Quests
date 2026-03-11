@@ -152,24 +152,34 @@ Một số quest có thể chưa được hỗ trợ hoặc đã hết hạn. To
 
 ---
 
-## 📊 Hoạt động dự án
+## 📊 Thống kê dự án
+
+<p align="center">
+  <a href="https://github.com/Nguoibianhz/Discord-Auto-Quests/stargazers">
+    <img src="https://img.shields.io/github/stars/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=f0e68c" alt="Stars"/>
+  </a>
+  <a href="https://github.com/Nguoibianhz/Discord-Auto-Quests/network/members">
+    <img src="https://img.shields.io/github/forks/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=87ceeb" alt="Forks"/>
+  </a>
+  <a href="https://github.com/Nguoibianhz/Discord-Auto-Quests/issues">
+    <img src="https://img.shields.io/github/issues/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=ffa07a" alt="Issues"/>
+  </a>
+  <a href="https://github.com/Nguoibianhz/Discord-Auto-Quests/commits">
+    <img src="https://img.shields.io/github/commit-activity/m/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=98fb98" alt="Commits"/>
+  </a>
+  <img src="https://img.shields.io/github/last-commit/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=dda0dd" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/watchers/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=c9b1ff" alt="Watchers"/>
+</p>
+
+## 📈 Star History
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Nguoibianhz/Discord-Auto-Quests&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Nguoibianhz/Discord-Auto-Quests&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Nguoibianhz/Discord-Auto-Quests&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Nguoibianhz/Discord-Auto-Quests&type=Date&theme=dark&t=20260311" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Nguoibianhz/Discord-Auto-Quests&type=Date&t=20260311" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Nguoibianhz/Discord-Auto-Quests&type=Date&t=20260311" />
   </picture>
 </p>
-
-| Chỉ số | Badge |
-|--------|-------|
-| ⭐ Stars | ![GitHub Stars](https://img.shields.io/github/stars/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=f0e68c) |
-| 🍴 Forks | ![GitHub Forks](https://img.shields.io/github/forks/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=87ceeb) |
-| 👁️ Watchers | ![GitHub Watchers](https://img.shields.io/github/watchers/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=c9b1ff) |
-| 📝 Commits | ![GitHub Commits](https://img.shields.io/github/commit-activity/m/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=98fb98) |
-| 🐛 Issues | ![GitHub Issues](https://img.shields.io/github/issues/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=ffa07a) |
-| 📅 Last Commit | ![Last Commit](https://img.shields.io/github/last-commit/Nguoibianhz/Discord-Auto-Quests?style=for-the-badge&logo=github&color=dda0dd) |
 
 ---
 
