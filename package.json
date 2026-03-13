@@ -2,19 +2,31 @@
   "name": "hieutool",
   "version": "2.0.0",
   "description": "Discord Quest Auto Claim",
-  "main": "farm.ts",
-  "scripts": {
-    "go": "tsx --env-file=.env farm.ts"
-  },
+  "main": "dist/farm.js",
+  "bin": "dist/farm.js",
   "type": "commonjs",
   "engines": {
     "node": ">=18"
   },
+
+  "scripts": {
+    "dev": "tsx --env-file=.env farm.ts",
+    "build": "tsc",
+    "build:linux": "npm run build && pkg . --targets node18-linux-x64 --output hieutool"
+  },
+
+  "pkg": {
+    "scripts": "dist/**/*.js",
+    "assets": []
+  },
+
   "devDependencies": {
     "@types/node": "^20.10.0",
     "tsx": "^4.7.0",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "pkg": "^5.8.1"
   },
+
   "dependencies": {
     "@discordjs/core": "^1.1.1",
     "@discordjs/rest": "^2.2.0",
